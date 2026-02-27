@@ -8,4 +8,5 @@ stok.sort(reverse = True)
 print(stok)
 # hitung rata rata dari seluruh stok
 rata = (15 + 25 + 30 + 40 + 50 + 75 + 100) / 7
+# hitung rata rata bisa juga dengan rata = sum(stok)/len(stok)
 print("List stok berisi ", stok, "dengan rata rata ", rata)
